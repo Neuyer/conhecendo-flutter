@@ -1,0 +1,4 @@
+{
+  "API_URL": "https://quiosq-api.herokuapp.com/login",
+  "LOGIN_URL": "https://quiosq-api.herokuapp.com/login"
+}
